@@ -1,8 +1,8 @@
 ## Hi there 👋 I am Amit Chhabra
 Welcome to my GitHub profile!
 
-# I am a software development manager and engineer passionate about building scalable systems. 
-# Leading high-impact technical teams and Exploring AI driven systems and solutions.
+## I am a software development manager and engineer passionate about building scalable systems. 
+## Leading high-impact technical teams and Exploring AI driven systems and solutions.
 
 ## 🔧 Tech Stack
 - 💻 Languages: C++, Python, Java, TypeScript
@@ -17,25 +17,9 @@ Welcome to my GitHub profile!
 - 🧠 **AI & Developer Tools** – Agent-based systems, internal productivity apps
 - 🖥️ **Enterprise Software** – Internet scale system, System integration, driver development, Consulting delivery leadership
 
-
 ## 🚀 Interests
-- 💡 Building AI-powered PropTech tools 
-- 🔍 Code Exploration & Migration Assistants 
+- 💡 Building AI powered PropTech tools, enabling buyers, sellers and Renter 
+- 🔍 Data/Systems Migration 
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/amchhabra/)
-
-<!--
-**amchhabra/amchhabra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
