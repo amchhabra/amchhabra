@@ -23,3 +23,4 @@ Welcome to my GitHub profile!
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/amchhabra/)
+- 💼 [substack](https://achhabra.substack.com/)
