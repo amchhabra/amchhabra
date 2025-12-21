@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 - 🧪 Frameworks: Spring Boot, Django, React, Laravel
 
 ## 🌍 Domain Experience
-- 🏘️ **PropTech & Real Estate** – Leads procesing platforms,  Consumer to customer connect.
+- 🏘️ **PropTech & Real Estate** – Leads procesing platforms,  Connecting Buyers Sellers and Renter to Builders, Agents and Partners.
 - 🏦 **FinTech & Capital Markets** – Clearing and Settlement, MBS annalytics,  order routing, RiskReporting.
 - 🧠 **AI & Developer Tools** – Agent-based systems, internal productivity apps
 - 🖥️ **Enterprise Software** – Internet scale system, System integration, driver development, Consulting delivery leadership
