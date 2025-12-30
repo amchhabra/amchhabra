@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 - 💻 Languages: C++, Python, Java, TypeScript
 - ☁️ Cloud & DevOps: AWS, Azure, Docker, GitHub Actions
 - 🧠 AI/ML: LangChain, OpenAI, Retrieval-Augmented Generation (RAG)
-- 📊 Data: SQL, MongoDB, Kafka, Arrow, Data Lakes
+- 📊 Data: SQL, MongoDB, Kafka, Arrow, Data Lakes, neo4j, cypher 
 - 🧪 Frameworks: Spring Boot, Django, React, Laravel
 
 ## 🌍 Domain Experience
